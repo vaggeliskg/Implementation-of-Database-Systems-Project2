@@ -6,7 +6,7 @@
 #include "hash_file.h"
 
 //RECORDS_NUM MOVED TO .h
-#define GLOBAL_DEPT 1 // you can change it if you want
+#define GLOBAL_DEPT 1 // you can change it if you want!
 #define FILE_NAME "data.db"
 
 const char* names[] = {
